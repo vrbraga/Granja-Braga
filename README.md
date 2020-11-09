@@ -1,2 +1,2 @@
-# Granja-Braga
- Reposotório do curso de GIT
+# Granja Braga
+ Primeiro reposotório do curso de GIT e GIT Hub
